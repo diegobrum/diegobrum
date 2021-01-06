@@ -2,10 +2,6 @@
 
 My name is *Diego*
 
-I am a full stack developer with more than 15 years of expertise in the IT area, focused in .Net platform using C# language.
-
-I am passionate about technology and enthusiastic for new and fun stuff :)
-
 ### 🔗 Connect
 
 <a href="https://linkedin.com/in/diegobrum" target="blank">
@@ -19,6 +15,6 @@ I am passionate about technology and enthusiastic for new and fun stuff :)
 
 ### :bar_chart: Statistics :nerd_face:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrum&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrum&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true)
 
 ![GitHub metrics](https://github.com/diegobrum/diegobrum/blob/master/github-metrics.svg)
