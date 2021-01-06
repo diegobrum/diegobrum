@@ -21,4 +21,4 @@ I am passionate about technology and enthusiastic for new and fun stuff :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrum&show_icons=true)
 
-![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
+![GitHub metrics](https://github.com/diegobrum/diegobrum/blob/master/github-metrics.svg)
