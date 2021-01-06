@@ -19,7 +19,7 @@ jobs:
           user: diegobrum
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/London
+          config_timezone: Europe/Lisbon
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
