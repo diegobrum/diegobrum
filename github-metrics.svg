@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slatedocs/slate</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2410,7 +2410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gohugoio/hugo</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Fri, 18 Jun 2021 15:18:46 (timezone Europe/Lisbon) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 18 Jun 2021 16:24:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
