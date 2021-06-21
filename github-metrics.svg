@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openreplay/openreplay</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2535,7 +2535,7 @@
                 </div>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated Mon, 21 Jun 2021 09:28:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.10.0</span>
+                    <span>Last updated Mon, 21 Jun 2021 10:21:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.10.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
