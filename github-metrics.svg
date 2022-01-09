@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Davidobot/BetterJoy</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ryujinx/Ryujinx</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Nintendo Switch Emulator written in C#</div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2022, 09:21:37 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 10:23:38 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
