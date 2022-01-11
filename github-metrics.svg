@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ardalis/SmartEnum</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A base class for quickly and easily creating strongly typed enum replacements in C#.</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coding-horror/basic-computer-games</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages</div>
@@ -1541,7 +1541,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2022, 19:17:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 20:22:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
