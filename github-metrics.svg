@@ -1347,7 +1347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spectreconsole/spectre.console</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .NET library that makes it easier to create beautiful console applications.</div>
@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ravendb/ravendb</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ACID Document Database</div>
@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ravendb/docs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docs for RavenDB</div>
@@ -1550,7 +1550,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2022, 16:32:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 14 Jan 2022, 17:28:43 (timezone Europe/Lisbon) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
