@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>umbraco/Umbraco-CMS</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites</div>
@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abremora/monytor</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A configurable monitoring tool.</div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jan 2022, 09:19:08 (timezone Europe/Lisbon) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 10:21:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
