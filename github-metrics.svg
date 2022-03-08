@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ravendb/demo</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1376,7 +1376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angularsen/UnitsNet</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes life working with units of measurement just a little bit better.</div>
@@ -1429,7 +1429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sblom/RegExtract</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clean &amp; simple idiomatic C# RegEx-based line parser that emits strongly typed results.</div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HofmeisterAn/dotnet-testcontainers</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐋 A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.</div>
@@ -1532,7 +1532,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2022, 11:06:23 (timezone Europe/Lisbon) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 12:07:19 (timezone Europe/Lisbon) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
