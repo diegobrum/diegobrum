@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cysharp/DFrame</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed load testing framework for .NET and Unity.</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurelia/framework</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.</div>
@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angularsen/UnitsNet</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes life working with units of measurement just a little bit better.</div>
@@ -1542,7 +1542,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2022, 11:05:52 (timezone Europe/Lisbon) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 17 Mar 2022, 12:07:20 (timezone Europe/Lisbon) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
