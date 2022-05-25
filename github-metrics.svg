@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>migrating-ravens/RavenMigrations</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small migrations framework to help you manage your RavenDB Instance.</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xabaril/AspNetCore.Diagnostics.HealthChecks</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enterprise HealthChecks for ASP.NET Core Diagnostics Package</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ravendb/serilog-sinks-ravendb</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Serilog sink that writes events to RavenDB</div>
@@ -1536,7 +1536,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2022, 10:06:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 11:06:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
