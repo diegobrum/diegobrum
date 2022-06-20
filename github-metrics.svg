@@ -1317,7 +1317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>UglyToad/PdfPig</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Read and extract text and other content from PDFs in C# (port of PDFBox)</div>
@@ -1370,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonray/Invoicer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy to use library to generate PDF invoices for .NET.</div>
@@ -1526,7 +1526,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 19:06:32 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 20:06:11 (timezone Europe/Lisbon) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
