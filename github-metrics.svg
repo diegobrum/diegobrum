@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maxkagamine/Moq.Contrib.HttpClient</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.</div>
@@ -1525,7 +1525,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2022, 10:06:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 11:06:47 (timezone Europe/Lisbon) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
