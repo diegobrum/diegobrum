@@ -1359,7 +1359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adr/madr</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown Architectural Decision Records</div>
@@ -1509,7 +1509,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 10:06:45 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 11:06:22 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
