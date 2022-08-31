@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>commandlineparser/commandline</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support</div>
@@ -1536,7 +1536,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 04:04:01 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 05:46:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
