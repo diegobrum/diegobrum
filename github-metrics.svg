@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MystenLabs/sui</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</div>
@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dragonflydb/dragonfly</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern replacement for Redis and Memcached</div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2022, 09:07:02 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Oct 2022, 10:06:12 (timezone Europe/Lisbon) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
