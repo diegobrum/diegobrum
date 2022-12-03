@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>directus/directus</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.</div>
@@ -1514,7 +1514,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2022, 14:05:59 (timezone Europe/Lisbon) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 3 Dec 2022, 15:06:18 (timezone Europe/Lisbon) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
