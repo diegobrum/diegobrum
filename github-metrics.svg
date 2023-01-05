@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnsmalm/pixi3d</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The 3D renderer for PixiJS. Seamless integration with 2D applications.</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adobe-research/custom-diffusion</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>f5/unovis</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript</div>
@@ -1541,7 +1541,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2023, 14:06:11 (timezone Europe/Lisbon) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 15:06:49 (timezone Europe/Lisbon) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
