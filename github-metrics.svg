@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beardgame/fluentsourcegen</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows using C# source generators using a fluent, type safe interface rather than string templating.</div>
@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>illright/attractions</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pretty cool UI kit for Svelte</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/sites</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monorepo for the sites in the Svelte ecosystem</div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2023, 09:06:15 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Jan 2023, 10:06:40 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
