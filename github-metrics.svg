@@ -1300,7 +1300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HamedFathi/EnumerationClassGenerator</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C# source generator to create an enumeration class from an enum type.</div>
@@ -1353,7 +1353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>piotrstenke/Durian</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Durian is a collection of Roslyn-based analyzers and source generators that extend the default capabilities of C#.</div>
@@ -1510,7 +1510,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2023, 03:12:42 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 04:06:39 (timezone Europe/Lisbon) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
