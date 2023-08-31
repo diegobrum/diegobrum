@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TestableIO/System.IO.Abstractions</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 01 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Just like System.Web.Abstractions, but for System.IO. Yay for testable IO access!</div>
@@ -1547,7 +1547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2023, 11:06:23 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Aug 2023, 12:06:00 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
