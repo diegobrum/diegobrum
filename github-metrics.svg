@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bnayae/Bnaya.BuilderPatternGenerator</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1382,7 +1382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roboflow/inference</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.</div>
@@ -1435,7 +1435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>capjamesg/visionscript</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-level programming language for using computer vision.</div>
@@ -1538,7 +1538,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2023, 11:05:56 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 12:08:10 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
