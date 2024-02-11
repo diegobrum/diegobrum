@@ -1370,9 +1370,9 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        SCSS
+                                        CSS
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2024, 03:06:11 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2024, 04:06:34 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
