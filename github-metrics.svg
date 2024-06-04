@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1012" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1029" class="">
     <defs>
         <style/>
     </defs>
@@ -1331,7 +1331,7 @@
                                         <span>starred 7 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">🍵 Drop-in semantic styling library in pure CSS.</div>
+                                <div class="field description">🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1537,7 +1537,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2024, 04:07:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 05:06:51 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
